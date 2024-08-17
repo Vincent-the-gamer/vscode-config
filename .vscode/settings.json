@@ -1,0 +1,42 @@
+{
+    // requires "vscode-icns" extension.
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange",
+    "editor.tokenColorCustomizations": {
+        "comments": {
+            "foreground": "#856cff",
+            "fontStyle": "bold"
+        }
+    },
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Input, DM Mono, monospace",
+    "git.ignoreLegacyWarning": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    // requires "aya" extension.
+    "aya.imports": [
+        "file:///path/to/your/bladelight.css"
+    ],
+    // requires "background" extension.
+    "background.fullscreen": {
+        "images": ["file:///path/to/your/pic"],
+        "opacity": 0.91,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    },
+    "background.style": {
+        "background-position": "100% 100%",
+        "background-size": "cover",
+        "opacity": 0.18
+    },
+    "background.customImages": [
+        "file:///path/to/your/pic"
+    ],
+    "workbench.colorTheme": "Aya Light"
+}

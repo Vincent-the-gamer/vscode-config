@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        // my theme
+        "vincent-the-gamer.aya",
+        // background
+        "shalldie.background",
+        // Git
+        "donjayamanne.githistory",
+        // Icon
+        "vscode-icons-team.vscode-icons",
+
+        // Rust Development
+        "tamasfe.even-better-toml",
+        "rust-lang.rust-analyzer",
+
+        // Front-end development
+        "antfu.unocss",
+        "Vue.volar",  // Vue
+        "dsznajder.es7-react-js-snippets", // React
+        "ritwickdey.LiveServer",  // html live reload
+        
+        // SSH
+        "ms-vscode-remote.remote-ssh"
+    ]
+}
